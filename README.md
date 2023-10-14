@@ -10,5 +10,3 @@ as shown in the examples.
 Remember to apply the encapsulation technique so that the salary cannot be freely changed.
 be changed freely. A salary can only be increased based on a given
 increase operation.
-
-Translated with www.DeepL.com/Translator (free version)
